@@ -21,12 +21,12 @@ I'm a **Flutter Developer** with hands-on experience crafting scalable, producti
 
 ### 🚀 About Me
 
-- 💼 Currently working as a **Software Developer** at **iCodeBees Pvt Ltd., Inopark Kochi**
+- 💼 Currently working as a **Software Developer** at **iCodeBees Pvt Ltd., Infopark Kochi**
 - 📱 Specialized in **Flutter** with expertise in **GetX**, **Bloc**, and **Dio**
 - 🏪 Published apps on both **Google Play Store** and **Apple App Store**
 - 💳 Experienced with **Stripe** and **Cashfree** payment gateways
 - 🗺️ Proficient with **Google Maps SDK** and **Firebase**
-- 🎓 M.Voc in Mobile Phone Application Development — **CUSAT** (CGPA: 7.8)
+- 🎓 M.Voc in Mobile Phone Application Development — **CUSAT** 
 
 ---
 
