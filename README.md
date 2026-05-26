@@ -115,15 +115,6 @@ I'm a **Flutter Developer** with hands-on experience crafting scalable, producti
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayarmohan&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayarmohan&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ### 🎓 Education
 
 - 🎓 **M.Voc** Mobile Phone Application Development — CUSAT *(2022–2024)* | CGPA: 7.8
