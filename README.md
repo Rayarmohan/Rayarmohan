@@ -65,7 +65,7 @@ I'm a **Flutter Developer** with hands-on experience crafting scalable, producti
 - Published apps to **Google Play Store** and **Apple App Store**
 - Worked on 2 live production projects
 
-#### 📱 Software Developer Intern — Acube Innovations Pvt Ltd.
+#### 📱 Software Developer  — Acube Innovations Pvt Ltd.
 *December 2023 – April 2024*
 - Design, develop, test, and debug Flutter applications
 - Worked on 2 live production projects
@@ -80,7 +80,7 @@ I'm a **Flutter Developer** with hands-on experience crafting scalable, producti
 
 #### 🏨 Avumy — Hotel & Event Booking Platform
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zsmart.avumy.prod&pcampaignid=web_share)
-[![App Store](https://apps.apple.com/us/app/avumy/id6749666313)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/avumy/id6749666313)
 - Hotel and event booking app with **Stripe payments**, **Google Maps**, and **GetX** state management
 - Backend: **Laravel** | Published on both Play Store & App Store
 
